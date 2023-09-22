@@ -11,3 +11,5 @@
 ###### This is an `<h6>` header, which is the smallest
 
 Example of header tag.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
